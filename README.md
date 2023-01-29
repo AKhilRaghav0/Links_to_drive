@@ -3,8 +3,17 @@ A simple colab file to upload files to onedrive without downloading over main sy
 
 - [x] Magnet link support
 - [x] Direct link support
+- [x] Jdownloader WebGUi
+- [x] Mega Support 
 - [ ] Telegram support
 
 
 ## Open in Colab
 [![Open In Colab RDP](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14FdKgxSAm_hs5SohT2hPQ2KcBtbNrQAj?usp=sharing)
+
+---------------------
+### How to bypass Mega Limit
+- Each Session support 7GB Transfer, so select upto 7GB file to download then Sync it with Onedrive.
+- After that delete runtime and rerun everything and select other files to transfer.
+
+follow the same drill everytime.
