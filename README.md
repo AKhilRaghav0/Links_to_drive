@@ -9,7 +9,7 @@ A simple colab file to upload files to onedrive without downloading over main sy
 
 
 ## Open in Colab
-[![Open In Colab RDP](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14FdKgxSAm_hs5SohT2hPQ2KcBtbNrQAj?usp=sharing)
+[![Open In Colab RDP](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NFCb_Cqf4beox0XynJk0RCOl2aFd-9WG?usp=sharing)
 
 ---------------------
 ### How to bypass Mega Limit
