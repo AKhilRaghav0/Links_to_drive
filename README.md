@@ -5,6 +5,7 @@ A simple colab file to upload files to onedrive without downloading over main sy
 - [x] Direct link support
 - [x] Jdownloader WebGUi
 - [x] Mega Support 
+- [x] Google's Shared drive support
 - [ ] Telegram support
 
 
