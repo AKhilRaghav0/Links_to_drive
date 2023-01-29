@@ -6,6 +6,7 @@ A simple colab file to upload files to Onedrive & Google Drive without downloadi
 - [x] Jdownloader WebGUi
 - [x] Mega Support 
 - [x] Google's Shared drive support
+- [ ] Qbittorrent GUi 
 - [ ] Telegram support
 
 
