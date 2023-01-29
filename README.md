@@ -1,5 +1,5 @@
 # Links_to_drive
-A simple colab file to upload files to onedrive without downloading over main system with the help of rclone.
+A simple colab file to upload files to Onedrive & Google Drive without downloading over main system with the help of rclone.
 
 - [x] Magnet link support
 - [x] Direct link support
