@@ -9,7 +9,7 @@ A simple colab file to upload files to Onedrive & Google Drive without downloadi
 - [x] Qbittorrent GUi 
 - [x] Ngrok Lookup
 - [x] Rclone config uploader
-- [ ] Telegram support
+- [x] Telegram support
 
 
 ## Open in Colab
